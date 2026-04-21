@@ -1,7 +1,6 @@
-<img width="2272" height="1264" alt="esp1" src="https://github.com/user-attachments/assets/ecd23b95-ca5b-4fec-a129-b9fc96139d3d" />
 # ESP32-C3FH4 Development Board (External Antenna)
 
-![Board Render](link-to-your-3d-render-or-photo.jpg) 
+<img width="2272" height="1264" alt="esp1" src="https://github.com/user-attachments/assets/ecd23b95-ca5b-4fec-a129-b9fc96139d3d" />
 *3D render of the assembled PCB.*
 
 ## Overview
