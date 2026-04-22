@@ -34,7 +34,5 @@ The native KiCad project files are included, allowing you to modify the schemati
 * **Thickness:1.57mm**
 * **Impedance Control:Yes**
 
-## License
-This hardware design is released under the **[Insert Chosen License, e.g., CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P)]**. 
 
-You are free to use, modify, and distribute this design, including for commercial manufacturing, provided you include the original attribution.
+You are free to use, modify, and distribute this design
