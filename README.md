@@ -42,10 +42,9 @@ Special attention was given to the RF routing between the ESP32-C3FH4 LNA/PA pin
 The files in the `/Gerbers` and `/BOM` directories are formatted for seamless submission to standard rapid prototyping services (like JLCPCB or PCBWay). 
 
 **Recommended Fabrication Specs:**
-* **Layers:** `[e.g., 2 or 4]`
-* **Thickness:** `[e.g., 1.6mm]`
-* **Copper Weight:** `[e.g., 1 oz]`
-* **Impedance Control:** `[Yes/No]`
+* **Layers:4
+* **Thickness:1.57mm
+* **Impedance Control:Yes
 
 ## License
 This hardware design is released under the **[Insert Chosen License, e.g., CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P)]**. 
